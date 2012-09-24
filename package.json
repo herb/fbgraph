@@ -1,6 +1,6 @@
 {
   "name": "fbgraph",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "description": "a cleaner client to access the facebook graph api",
   "keywords": [
     "facebook",
@@ -10,7 +10,8 @@
   "author": "Cristiano Oliveira <ocean.cris@gmail.com>",
   "main": "index",
   "dependencies": {
-    "request": "2.1.x"
+    "request": "2.1.x",
+    "qs": "0.5.x"
   },
   "devDependencies": {
     "vows": "0.5.x"
